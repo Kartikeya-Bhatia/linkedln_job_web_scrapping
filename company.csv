@@ -1,0 +1,523 @@
+companyid,company,No. of followers,Industry,No. of Employees
+C1,Huntover4u,886,Human Resources,1-11
+C2,Auretics Limited,108,Retail,201-500
+C3,GMR Group,207859,Construction,"5,001-10,000"
+C4,Spirale HR Solutions Pvt Ltd,1378,Human Resources,51-200
+C5,CEDCOSS Technologies Private Limited,20299,Computer Software,"1,001-5,000"
+C6,PwC India,1004230,Management Consulting,"5,001-10,000"
+C7,UKB Electronics Pvt. Ltd.,14765,Electrical & Electronics Manufacturing,"1,001-5,000"
+C8,CADILA HEALTHCARE LTD,8976,Pharmaceuticals,201-500
+C9,Jio,914925,Telecommunications,"10,001+"
+C10,Siemens Energy,1097939,Renewables & Environment,"10,001+"
+C11,Testbook,112202,E-learning,"501-1,000"
+C12,Airports Authority of India,58464,Airlines/Aviation,"10,001+"
+C13,Paytm,1156752,Financial Services,"10,001+"
+C14,Voyants Solutions Private Limited,17615,Civil Engineering,"501-1,000"
+C15,Leute Passen,8360,Human Resources,51-200
+C16,Inspire consultancy services pvt. ltd,601,Human Resources,1-11
+C17,Manoj Enterprise,3,Electrical & Electronics Manufacturing,51-200
+C18,L&T Infrastructure Engineering Limited,75964,Civil Engineering,201-500
+C19,Pure Oxidane Technology Pvt. Ltd.,3076,Environmental Services,11-05
+C20,CADILA HEALTHCARE LTD,8976,Pharmaceuticals,201-500
+C21,HCLTech,4552450,Information Technology,Services
+C22,Emerson,831452,Mechanical Or Industrial Engineering,"10,001+"
+C23,Maruti Suzuki India Limited,666027,Automotive,"10,001+"
+C24,Belora Cosmetics,31906,Cosmetics,1-11
+C25,Vistara - TATA SIA Airlines Ltd.,391915,Airlines/Aviation,"1,001-5,000"
+C26,Artha Group,27482,Financial Services,1-11
+C27,Astral Pipes,39921,Construction,"1,001-5,000"
+C28,Astral Pipes,39921,Construction,"1,001-5,000"
+C29,Pickaboo.in,24,Apparel & Fashion,2-10
+C30,Paytm Payments Bank,108734,Banking,"1,001-5,000"
+C31,American India Foundation,77420,Non-profit Organization Management,51-200
+C32,EYE MANTRA,78,Medical Practice,
+C33,Paytm Payments Bank,108734,Banking,"1,001-5,000"
+C34,YES BANK,800549,Banking,"10,001+"
+C35,udaan.com,562180,Computer Software,"1,001-5,000"
+C36,Huptech HR Solutions,7042,Staffing & Recruiting,1-11
+C37,Merito.in,9261,Staffing & Recruiting,2-10
+C38,Deutsche Bank,1855137,Financial Services,"10,001+"
+C39,SourceMash,1972,Information Technology,51-200
+C40,Paytm,1156753,Financial Services,"10,001+"
+C41,Pidilite Industries Limited,432021,Consumer Goods,"1,001-5,000"
+C42,Crocs,64778,Consumer Goods,"1,001-5,000"
+C43,CEDCOSS Technologies Private Limited,20299,Computer Software,"1,001-5,000"
+C44,PepsiCo,7067303,Food & Beverages,"10,001+"
+C45,Paytm Payments Bank,108734,Banking,"1,001-5,000"
+C46,Nira Global Networks,218,Information Technology,
+C47,Rojgar Connection,162,Staffing & Recruiting,51-200
+C48,NavBharat Today,326,Online Media,51-200
+C49,H&M,2281989,Retail,"10,001+"
+C50,Cartier,949225,Luxury Goods & Jewelry,"5,001-10,000"
+C51,Bajaj Electricals Ltd,256502,Consumer Electronics,"1,001-5,000"
+C52,Unilever,18494282,Consumer Goods,"10,001+"
+C53,adidas,3235493,Sporting Goods,"10,001+"
+C54,Zigsaw,73247,Staffing & Recruiting,1-11
+C55,CodersBrain,53018,Information Technology,
+C56,Shell,6186653,Oil & Energy,"10,001+"
+C57,Translate By Humans,3727,Translation & Localization,
+C58,Flipkart,3233890,Computer Software,"10,001+"
+C59,Groupon,342787,Computer Software,"1,001-5,000"
+C60,KPMG India,1491078,Management Consulting,"10,001+"
+C61,Airport Authority Of India,17097,Aviation & Aerospace,"5,001-10,000"
+C62,Unilever,18494284,Consumer Goods,"10,001+"
+C63,Infosys BPM,866589,Information Technology,"10,001+"
+C64,Thoughtful Minds Web Services Pvt. Ltd.,1047,Writing & Editing,51-200
+C65,Airports Authority of India,58464,Airlines/Aviation,"10,001+"
+C66,IndiGo (InterGlobe Aviation Ltd),416563,Airlines/Aviation,"10,001+"
+C67,TalVest Consultancy LLP,5,Staffing & Recruiting,51-200
+C68,Mahindra Group,1151018,Executive Office,"10,001+"
+C69,AICS Consultancy Service Pvt. Ltd.,12174,Staffing & Recruiting,51-200
+C70,Airports Authority of India,58464,Airlines/Aviation,"10,001+"
+C71,The Phoenix Mills Ltd.,24173,Real Estate,"501-1,000"
+C72,Airports Authority of India,58464,Airlines/Aviation,"10,001+"
+C73,Bedford County Airport,15,Aviation & Aerospace,2-10
+C74,ellementry,1885,Retail,51-200
+C75,BSCPL Infrastructure Limited,4063,Construction,0-1
+C76,ClearFeed,2937,Computer Software,1-11
+C77,Vistara - TATA SIA Airlines Ltd.,391915,Airlines/Aviation,"1,001-5,000"
+C78,LeadSquared,206160,Computer Software,"1,001-5,000"
+C79,Mahindra Group,1151018,Executive Office,"10,001+"
+C80,Acme Services,136487,Human Resources,51-200
+C81,IndiGo (InterGlobe Aviation Ltd),416563,Airlines/Aviation,"10,001+"
+C82,Godrej Agrovet Limited,179143,Farming,"1,001-5,000"
+C83,Indian Oil Corporation Limited,280777,Oil & Energy,"10,001+"
+C84,BMW Deutsche Motoren,8873,Automotive,201-500
+C85,Qatar Airways,1970928,Airlines/Aviation,"10,001+"
+C86,Godrej Properties Limited,433787,Real Estate,"1,001-5,000"
+C87,SrinSoft Technologies,14946,Information Technology,Services
+C88,Greenko Group,29077,Renewables & Environme,"1,001-5,000"
+C89,Godrej Properties Limited,433788,Real Estate,"1,001-5,000"
+C90,IndiGo (InterGlobe Aviation Ltd),416563,Airlines/Aviation,"10,001+"
+C91,Zensar Technologies,544749,Information Technology,"5,001-10,000"
+C92,Antal International,650598,Staffing & Recruiting,"1,001-5,000"
+C93,Navin Group,2018,Logistics & Supply Cha,"1,001-5,000"
+C94,L'Oréal,4390040,Cosmetics,"10,001+"
+C95,Tech Mahindra Business Services,44071,Information Technology,"Services                  5,0"
+C96,Neuway Innovations Pvt Ltd,179,Architecture & Planning,51-200
+C97,BharatPe,150350,Financial Services,201-500
+C98,Tech Mahindra,4215854,Information Technology,"10,001+"
+C99,Manali Engineering India,366,Mechanical Or Industrial Engineering,1-11
+C100,YES BANK,800555,Banking,"10,001+"
+C101,Airport Authority Of India,17097,Aviation & Aerospace,"5,001-10,000"
+C102,Navin Group,2018,Logistics & Supply Cha,"1,001-5,"
+C103,Navin Group,2018,Logistics & Supply Cha,"1,001-5,"
+C104,Pramoda Rebar (P) Ltd,684,Civil Engineering,51-200
+C105,Maruti Suzuki India Limited,666030,Automotive,"10,001+"
+C106,SKILHAT BIZSOL LLC,5469,Marketing & Advertisin,51-20
+C107,Zigsaw,73249,Staffing & Recruiting,1-11
+C108,Vijaya Management Consultants,9,Staffing & Recruiting,11-05
+C109,Vistara - TATA SIA Airlines Ltd.,391915,Airlines/Aviation,"1,001-5,000"
+C110,Home To Native,20,Apparel & Fashion,
+C111,IndiGo (InterGlobe Aviation Ltd),416563,Airlines/Aviation,"10,001+"
+C112,GE Aerospace,885105,Aviation & Aerospace,"10,001+"
+C113,IndiGo (InterGlobe Aviation Ltd),416564,Airlines/Aviation,"10,001+"
+C114,Vistara - TATA SIA Airlines Ltd.,391915,Airlines/Aviation,"1,001-5,000"
+C115,Webkul,22162,Information Technology,Services
+C116,The Coca-Cola Company,7169434,Food & Beverages,"10,001+"
+C117,Hiring Heads,385,Staffing & Recruiting,11-05
+C118,Wipro,6736678,Information Technology,"10,001+"
+C119,Tata Consultancy Services,12000082,Information Technology,"10,001+"
+C120,Wipro,6736678,Information Technology,"10,001+"
+C121,Go Digit General Insurance Ltd,2593,Insurance,"1,001-5,000"
+C122,Apis India Ltd,2546,Food & Beverages,"1,001-5,000"
+C123,CHANEL,2106689,Luxury Goods & Jewelry,"10,001+"
+C124,UPS,1654209,Transportation/Truckin,"10,001+"
+C125,Xiaomi India,192333,Computer Software,"501-1,000"
+C126,Disha Consultant,1341,Human Resources,2-10
+C127,Haze-Busting Consultancy Services,1791,Consumer Services,1-11
+C128,Alchemyjob,3,Consumer Services,51-200
+C129,Oracle,8756382,Information Technology,"10,001+"
+C130,Britannia Industries Limited,965067,Consumer Goods,"1,001-5,000"
+C131,Livspace,306528,Computer Software,"1,001-5,000"
+C132,Recruitment Experts,167,Staffing & Recruiting,2-01
+C133,Indira IVF Group,8817,Hospital & Health Care,"1,001-5,000"
+C134,Talent Corner HR Services Pvt Ltd,128614,Management Consulting,51-200
+C135,Haze-Busting Consultancy Services,1791,Consumer Services,1-11
+C136,Astral Pipes,39921,Construction,"1,001-5,000"
+C137,Astral Pipes,39921,Construction,"1,001-5,000"
+C138,Network18 Media & Investments Limited,211330,Media Production,"5,001-10,000"
+C139,_Royal_,4033,Farming,"5,001-10,000"
+C140,Paytm Payments Bank,108734,Banking,"1,001-5,000"
+C141,INDIAN SCHOOL OF BUSINESS MANAGEMENT AND ADMINISTRATION,15215,Education Management,"501-1,000"
+C142,RGF Professional Recruitment,32434,Staffing & Recruiting,51-200
+C143,PwC India,1004247,Management Consulting,"5,001-10,000"
+C144,IndiGo (InterGlobe Aviation Ltd),416565,Airlines/Aviation,"10,001+"
+C145,eFeed,1954,Farming,2-10
+C146,JOBSCLICK,718,Human Resources,1-11
+C147,Desire Consultancy Services,189,#VALUE!,
+C148,Capital Placement Services Gurgaon Delhi Noida Manesar Bawal Neemrana Bhiwadi Sohna Road,13678,Staffing & Recruiting,1-11
+C149,KIOCL Limited,929,Mining & Metals,"501-1,000"
+C150,IndiGo (InterGlobe Aviation Ltd),416565,Airlines/Aviation,"10,001+"
+C151,Vistara - TATA SIA Airlines Ltd.,391917,Airlines/Aviation,"1,001-5,000"
+C152,Matic Solutions,1724,Information Technology,Services
+C153,Siddhivinayak Group,353,Real Estate,51-200
+C154,Balj Services Private Limited,1200,Information Technology,1-11
+C155,Opal Healthcare,11721,Hospital & Health Care,"5,001-10,000"
+C156,Vantiva,7194,Telecommunications,"1,001-5,000"
+C157,PwC India,1004248,Management Consulting,"5,001-10,000"
+C158,Haze-Busting Consultancy Services,1791,Consumer Services,1-11
+C159,Talent Zone Consultant,3348,Human Resources,1-11
+C160,Paytm Payments Bank,108734,Banking,"1,001-5,000"
+C161,HCLTech,4552479,Information Technology,Services
+C162,Spirale HR Solutions Pvt Ltd,1378,Human Resources,51-200
+C163,FrugalTesting,3568,Information Technology,1-11
+C164,Genpact,2520481,Information Technology,"10,001+"
+C165,Welspun Group,224960,Textiles,"10,001+"
+C166,Shreeji Industries,607,Mechanical Or Industri,1-11
+C167,i-Lanam Technologies,2112,Information Technology,1-11
+C168,The Digital Socialite,1151,Information Technology,1-11
+C169,Alom Poly Extrusions Ltd.,1490,Plastics,"501-1,000"
+C170,Paytm,1156773,Financial Services,"10,001+"
+C171,Wipro,6736706,Information Technology,"10,001+"
+C172,_Royal_,4033,Farming,"5,001-10,000"
+C173,Google,27838744,Computer Software,"10,001+"
+C174,Shital Plastic,2,Electrical & Electronics Manufacturing,1-11
+C175,Cleartrip,188049,"Leisure, Travel & Tourism","501-1,000"
+C176,Regalo Kitchens Pvt. Ltd,22679,Furniture,201-500
+C177,Shell,6186672,Oil & Energy,"10,001+"
+C178,Alliance Recruitment Agency,23808,Human Resources,51-200
+C179,GlobalSignIn Pte Ltd,2606,Information Technology,51-200
+C180,Livspace,306529,Computer Software,"1,001-5,000"
+C181,Welspun Group,224962,Textiles,"10,001+"
+C182,JPMorgan Chase & Co.,3680296,Financial Services,"10,001+"
+C183,Hyatt Regency,403443,Hospitality,"10,001+"
+C184,UBS,1290043,Financial Services,"10,001+"
+C185,Galentic Pharma (India) Pvt. Ltd.,7843,Pharmaceuticals,201-500
+C186,"Glan Management Consultancy- Career, Jobs, Hiring",6383,Staffing & Recruiting,2-01
+C187,Conscious Foundation,7623,Information Technology,1-11
+C188,Nira Global Networks,219,Information Technology,1-11
+C189,Raj Textiles,59,Apparel & Fashion,1-11
+C190,PwC India,1004254,Management Consulting,"5,001-10,000"
+C191,Cleartrip,188049,"Leisure, Travel & Tourism","501-1,000"
+C192,HiringHut Solutions Pvt Ltd,1486,Human Resources,51-200
+C193,GE Aerospace,885112,Aviation & Aerospace,"10,001+"
+C194,Vistara - TATA SIA Airlines Ltd.,391922,Airlines/Aviation,"1,001-5,000"
+C195,DEARLIFE EMPOWER INDIA PRIVATE LIMITED,259,Consumer Goods,201-500
+C196,Navin Group,2018,Logistics & Supply Cha,"1,001-5,"
+C197,The Maayenture Group ✅,2291,Staffing & Recruiting,1-11
+C198,Matangi Industries LLP,4801,Chemicals,51-200
+C199,Tata Consultancy Services,12000165,Information Technology,"10,001+"
+C200,NeetDeep Group,577,Computer Software,51-200
+C201,EverData,1440,Information Technology,51-200
+C202,Navin Group,2018,Logistics & Supply Cha,"1,001-5,000"
+C203,Citi,3994959,Financial Services,"10,001+"
+C204,Philip Morris International,1102842,Tobacco,"10,001+"
+C205,MediPharma Konnect,10757,Management Consulting,1-11
+C206,Mahindra Lifespaces,1921,Real Estate,1-11
+C207,KPMG,3195956,Accounting,"10,001+"
+C208,Paytm Payments Bank,108735,Banking,"1,001-5,000"
+C209,IndiGo (InterGlobe Aviation Ltd),416567,Airlines/Aviation,"10,001+"
+C210,JOBSCLICK,718,Human Resources,1-11
+C211,Lipi Marketing Private  Limited,518,Printing,51-200
+C212,Airbnb,2290665,Computer Software,"5,001-10,000"
+C213,Resources Valley,3039,Human Resources,1-11
+C214,Swiggy,1285554,Computer Software,"1,001-5,000"
+C215,Andd Jobs,8389,Human Resources,1-11
+C216,Airport Authority Of India,17098,Aviation & Aerospace,"5,001-10,000"
+C217,Marine Debt Management,9570,Logistics & Supply Cha,2-10
+C218,Spandana Hospital,194,Hospital & Health Care,51-20
+C219,Xybion Digital,19707,Computer Software,201-500
+C220,Treebo,511,Internet,1-11
+C221,Thriving Springs Inc,2956,Computer Software,1-11
+C222,Siemens Energy,1097957,Renewables & Environme,"10,001+"
+C223,Glint!,7108,Internet,1-11
+C224,Medecho Ltd,2470,Staffing & Recruiting,51-200
+C225,Odles,1502,Internet,1-11
+C226,Pidilite Industries Limited,432027,Consumer Goods,"1,001-5,000"
+C227,Flipkart,3233921,Computer Software,"10,001+"
+C228,Tata Consultancy Services,12000190,Information Technology,"10,001+"
+C229,Swiggy,1285557,Computer Software,"1,001-5,000"
+C230,Google,27838794,Computer Software,"10,001+"
+C231,Unilever,18494333,Consumer Goods,"10,001+"
+C232,SKG EMPLOYMENT,229,Information Technology,1-11
+C233,Rao Consultants,3507,Education Management,201-500
+C234,Xiaomi India,192336,Computer Software,"501-1,000"
+C235,Paytm,1156780,Financial Services,"10,001+"
+C236,Mechatronik Technologies Pvt Ltd,590,Renewables & Environme,2-01
+C237,Zigsaw,73258,Staffing & Recruiting,1-11
+C238,Deutsche Bank,1855154,Financial Services,"10,001+"
+C239,Markegist,9540,Management Consulting,1-11
+C240,PageTraffic,8796,Computer Software,51-200
+C241,GE Aerospace,885116,Aviation & Aerospace,"10,001+"
+C242,HCLTech,4552504,Information Technology,"10,001+"
+C243,GMR Group,207861,Construction,"5,001-10,000"
+C244,BuzzBoard,29809,Computer Software,51-200
+C245,Endeavor Academy,1964,E-learning,201-500
+C246,Zigsaw,73258,Staffing & Recruiting,1-11
+C247,PwC India,1004262,Management Consulting,"5,001-10,000"
+C248,InsuranceDekho,24549,Insurance,"1,001-5,000"
+C249,SI PLACEMENTS INTERNATIONALS,272,Staffing & Recruiting,1-11
+C250,KUMUDAM PUBLICATIONS PVT LTD,683,Media Production,"501-1,000"
+C251,Walmart Global Tech India,858083,Information Technology,"5,001-10,000"
+C252,Tata Consultancy Services,12000208,Information Technology,"10,001+"
+C253,Sathguru Management Consultants,11349,Management Consulting,51-200
+C254,PwC India,1004264,Management Consulting,"5,001-10,000"
+C255,Mahindra Group,1151046,Executive Office,"10,001+"
+C256,Gartner,1511612,Information Services,"10,001+"
+C257,Ethereal Machines,2847,Industrial Automation,1-11
+C258,CodersBrain,53018,Information Technology,201-500
+C259,Apollo Radiology International,320,Hospital & Health Care,"501-1,00"
+C260,Expanderful,96,Financial Services,2-10
+C261,Maruti Suzuki India Limited,666043,Automotive,"10,001+"
+C262,CEDCOSS Technologies Private Limited,20298,Computer Software,"1,001-5,000"
+C263,UltraTech Cement,591818,Building Materials,"10,001+"
+C264,Purplle.com,282607,Computer Software,"501-1,000"
+C265,IndiGo (InterGlobe Aviation Ltd),416569,Airlines/Aviation,"10,001+"
+C266,Allset Business Solutions,774,Banking,"1,001-5,000"
+C267,Seven Consultancy (HR Solution),45688,Human Resources,51-200
+C268,Hyatt Regency,403446,Hospitality,"10,001+"
+C269,Coty,681491,Cosmetics,"10,001+"
+C270,FUTURECALLS TECHNOLOGY PRIVATE LIMITED,1648,Computer & Network Security,51-200
+C271,Vasonomics,1409,Computer Software,1-11
+C272,Adler Talent Solutions Pvt Ltd,8689,Human Resources,1-11
+C273,JPMorgan Chase & Co.,3680310,Financial Services,"10,001+"
+C274,Foursis Technical Solutions,47784,Staffing & Recruiting,1-11
+C275,CYBERONICS INDIA,340,Law Practice,51-200
+C276,Gamut HR Solutions,910,Human Resources,2-10
+C277,IntouchCX,117697,Outsourcing/Offshoring,"10,001+"
+C278,Mahindra Group,1151048,Executive Office,"10,001+"
+C279,Wipro,6736770,Information Technology,"10,001+"
+C280,Unilever,18494351,Consumer Goods,"10,001+"
+C281,CEDCOSS Technologies Private Limited,20298,Computer Software,"1,001-5,000"
+C282,GEETANJALI UNIVERSITY,1596,Higher Education,1-11
+C283,Pollucon Technologies Limited,504,Construction,51-200
+C284,Grand Enterprises,863,Electrical & Electronic Manufacturing,1-11
+C285,Vialto Partners,40875,Management Consulting,"5,001-10,000"
+C286,CEDCOSS Technologies Private Limited,20298,Computer Software,"1,001-5,000"
+C287,Adani Group,1192052,Utilities,"10,001+"
+C288,Airports Authority of India,58469,Airlines/Aviation,"10,001+"
+C289,HP,5179187,Information Technology,"10,001+"
+C290,HP,5179187,Information Technology,"10,001+"
+C291,IntouchCX,117698,Outsourcing/Offshoring,"10,001+"
+C292,Zigsaw,73263,Staffing & Recruiting,1-11
+C293,The Coca-Cola Company,7169449,Food & Beverages,"10,001+"
+C294,Jeevan Scientific Technology Limited,7118,Research,201-500
+C295,SKG EMPLOYMENT,229,Information Technology,1-11
+C296,SKG EMPLOYMENT,229,Information Technology,1-11
+C297,Applycup Hiring Solutions,162,Staffing & Recruiting,51-200
+C298,Audi Mumbai West,1405,Automotive,201-500
+C299,Dhingra Pharma,370,Electrical & Electronic Manufacturing,1-11
+C300,Kotak Mahindra Bank,795228,Banking,"10,001+"
+C301,Deutsche Bank,1855159,Financial Services,"10,001+"
+C302,IntouchCX,117698,Outsourcing/Offshoring,"10,001+"
+C303,Baramati Agro Ltd,7900,Food Production,"1,001-5,000"
+C304,Cummins Inc.,690630,Automotive,"10,001+"
+C305,Bedford County Airport,16,Aviation & Aerospace,2-10
+C306,Pidilite Industries Limited,432031,Consumer Goods,"1,001-5,000"
+C307,UBS,1290049,Financial Services,"10,001+"
+C308,Tata Consultancy Services,12000267,Information Technology,"10,001+"
+C309,Wipro,6736782,Information Technology,"10,001+"
+C310,InsuranceDekho,24551,Insurance,"1,001-5,000"
+C311,IndiGo (InterGlobe Aviation Ltd),416570,Airlines/Aviation,"10,001+"
+C312,Heubach,33070,Chemicals,"1,001-5,000"
+C313,Deutsche Bank,1855161,Financial Services,"10,001+"
+C314,MBWORLD EXIM PVT. LTD.,1257,Pharmaceuticals,1-11
+C315,GE Aerospace,885124,Aviation & Aerospace,"10,001+"
+C316,Jio,914956,Telecommunications,"10,001+"
+C317,Spirale HR Solutions Pvt Ltd,1378,Human Resources,51-200
+C318,InsuranceDekho,24552,Insurance,"1,001-5,000"
+C319,Aria International Technology,291,Insurance,51-200
+C320,Tech Mahindra Business Services,44071,Information Technology,"5,001-10,000"
+C321,Visteon India,24314,Automotive,"1,001-5,000"
+C322,Alliance Recruitment Agency,23808,Human Resources,51-200
+C323,GMR Group,207862,Construction,"5,001-10,000"
+C324,UltraTech Cement,591834,Building Materials,"10,001+"
+C325,"DC Consultants(India,USA,Australia,GCC)",9049,Staffing & Recruiting,1-11
+C326,Capital Placement Services Gurgaon .,15422,Human Resources,2-10
+C327,NetConnectGlobal,23009,Information Technology,"1,001-5,000"
+C328,adidas,3235526,Sporting Goods,"10,001+"
+C329,PwC India,1004272,Management Consulting,"5,001-10,000"
+C330,Stemford India Pvt. Ltd.,1535,Human Resources,51-200
+C331,Sahaj Pharma - For HR Solutions,11737,Staffing & Recruiting,2-10
+C332,Vistara - TATA SIA Airlines Ltd.,391928,Airlines/Aviation,"1,001-5,000"
+C333,Naukri Solution,146,Education Management,1-11
+C334,Rabatex Industries,949,Textiles,201-500
+C335,Tech Mahindra,4215997,Information Technology,"10,001+"
+C336,Wipro,6736798,Information Technology,"10,001+"
+C337,Adler Talent Solutions Pvt Ltd,8689,Human Resources,1-11
+C338,Dunzo,296283,Computer Software,"5,001-10,000"
+C339,Mspire HR Solutions (Unit of Mspire Ventures Private Limited),5780,Staffing & Recruiting,1-11
+C340,The Coca-Cola Company,7169453,Food & Beverages,"10,001+"
+C341,eFeed,1954,Farming,2-10
+C342,Assort Staffing Services (P) Ltd,6485,Human Resources,51-200
+C343,SI PLACEMENTS INTERNATIONALS,272,Staffing & Recruiting,1-11
+C344,OYO,1069150,Computer Software,"5,001-10,000"
+C345,DTDC Express Limited,123146,Transportation/Trucking/Railroad,"10,001+"
+C346,"QUEST Engineering, LLC",4967,Mechanical Or Industrial Engineering,1-11
+C347,India Business Ventures Pvt Ltd,1102,Education Management,51-200
+C348,PwC Acceleration Centers,276462,Information Technology,Services
+C349,Dhingra Pharma,370,Electrical & Electronic Manufacturing,1-11
+C350,Adler Talent Solutions Pvt Ltd,8689,Human Resources,1-11
+C351,KPMG,3195983,Accounting,"10,001+"
+C352,Adler Talent Solutions Pvt Ltd,8689,Human Resources,1-11
+C353,GE Aerospace,885127,Aviation & Aerospace,"10,001+"
+C354,CEM Engineers,550,Architecture & Planning,1-11
+C355,SI PLACEMENTS INTERNATIONALS,272,Staffing & Recruiting,1-11
+C356,Vasonomics,1409,Computer Software,1-11
+C357,Mahindra Holidays & Resorts India Limited,126929,Hospitality,"10,001+"
+C358,Dhingra Pharma,370,Electrical & Electronic Manufacturing,1-11
+C359,Airport Authority Of India,17098,Aviation & Aerospace,"5,001-10,000"
+C360,Airbnb,2290675,Computer Software,"5,001-10,000"
+C361,Siemens Energy,1097967,Renewables & Environme,"10,001+"
+C362,Cynosure Corporate Solutions,10266,Staffing & Recruiting,51-200
+C363,Oracle,8756440,Information Technology,"10,001+"
+C364,GE Aerospace,885130,Aviation & Aerospace,"10,001+"
+C365,Petrofac,1231247,Oil & Energy,"5,001-10,000"
+C366,Airports Authority of India,58472,Airlines/Aviation,"10,001+"
+C367,Zaptech Solutions,4865,Information Technology,201-500
+C368,SkillDzire-Recruit,23591,Information Services,1-11
+C369,SkillDzire-Recruit,23591,Information Services,1-11
+C370,JCB India Ltd.,533957,Automotive,"1,001-5,000"
+C371,Shell,6186698,Oil & Energy,"10,001+"
+C372,The Palms Spa - India,36,"Health, Wellness & Fit",1-11
+C373,Eduncle,7685,E-learning,51-200
+C374,Vistara - TATA SIA Airlines Ltd.,391928,Airlines/Aviation,"1,001-5,000"
+C375,GE Aerospace,885132,Aviation & Aerospace,"10,001+"
+C376,DIAGEO India,239178,Consumer Goods,"1,001-5,000"
+C377,SVKM's Narsee Monjee Institute of Management Studies (NMIMS),172403,Education Management,"1,001-5,000"
+C378,JPMorgan Chase & Co.,3680324,Financial Services,"10,001+"
+C379,Vistara - TATA SIA Airlines Ltd.,391928,Airlines/Aviation,"1,001-5,000"
+C380,Stiger EV,4456,Automotive,1-11
+C381,Zigsaw,73268,Staffing & Recruiting,1-11
+C382,Sai Placement Solutions,30051,Human Resources,2-10
+C383,Capgemini,5479523,Information Technology,Services
+C384,Grow Your Staff,102533,Staffing & Recruiting,201-500
+C385,Aria International Technology,291,Insurance,51-200
+C386,Vistara - TATA SIA Airlines Ltd.,391928,Airlines/Aviation,"1,001-5,000"
+C387,Netmeds.com,56520,"Health, Wellness & Fit","501-1,000"
+C388,GMR Group,207864,Construction,"5,001-10,000"
+C389,121 Hiring Private Limited,320,Human Resources,1-11
+C390,CEDCOSS Technologies Private Limited,20298,Computer Software,"1,001-5,000"
+C391,Marine Debt Management,9570,Logistics & Supply Cha,2-01
+C392,Livspace,306540,Computer Software,"1,001-5,000"
+C393,American Express,1833534,Financial Services,"10,001+"
+C394,Vistara - TATA SIA Airlines Ltd.,391928,Airlines/Aviation,"1,001-5,000"
+C395,Mahindra Group,1151056,Executive Office,"10,001+"
+C396,Vistara - TATA SIA Airlines Ltd.,391928,Airlines/Aviation,"1,001-5,000"
+C397,Hack'a'Holic IT Services Pvt. Ltd.,14,Information Technology,1-11
+C398,KPMG India,1491132,Management Consulting,"10,001+"
+C399,Siemens Energy,1097969,Renewables & Environme,"10,001+"
+C400,Vasonomics,1409,Computer Software,1-11
+C401,Infosys,6791879,Information Technology,"10,001+"
+C402,IKEA,2610002,Retail,"10,001+"
+C403,GE Aerospace,885133,Aviation & Aerospace,"10,001+"
+C404,Swiggy,1285567,Computer Software,"1,001-5,000"
+C405,Deloitte,11751733,Management Consulting,"10,001+"
+C406,Paytm,1156793,Financial Services,"10,001+"
+C407,UBS,1290058,Financial Services,"10,001+"
+C408,Vistara - TATA SIA Airlines Ltd.,391928,Airlines/Aviation,"1,001-5,000"
+C409,Genpact India Private Limited Delhi,18093,Electrical & Electronic Manufacturing,"501-1,000"
+C410,CXOE Partners LLP,8942,Human Resources,2-10
+C411,Payas Systems Pvt Ltd,140,Computer Software,51-200
+C412,SrinSoft Technologies,14946,Information Technology,"501-1,000"
+C413,IndiGo (InterGlobe Aviation Ltd),416571,Airlines/Aviation,"10,001+"
+C414,Second Medic,2780,"Health, Wellness & Fit",1-11
+C415,Airport Authority Of India,17098,Aviation & Aerospace,"5,001-10,000"
+C416,Tech Mahindra,4216032,Information Technology,"10,001+"
+C417,Adroit Learning And Manpower Pvt. Ltd.,2209,Human Resources,1-11
+C418,Navin Group,2018,Logistics & Supply Cha,"1,001-5,"
+C419,Taurus Contractors Pvt Ltd,51865,Oil & Energy,1-11
+C420,Crazy Fox Creations,4424,Media Production,1-11
+C421,Paytm Payments Bank,108737,Banking,"1,001-5,000"
+C422,Sahaj Pharma - For HR Solutions,11739,Staffing & Recruiting,2-10
+C423,The Ballot House UK (India),1603,Public Relations & Communications,1-11
+C424,IndiGo (InterGlobe Aviation Ltd),416571,Airlines/Aviation,"10,001+"
+C425,United HR Solutions Pvt. Ltd.,81222,Human Resources,1-11
+C426,HyreFox Consultants,13291,Human Resources,51-200
+C427,Alliance Recruitment Agency,23808,Human Resources,51-200
+C428,Vistara - TATA SIA Airlines Ltd.,391929,Airlines/Aviation,"1,001-5,000"
+C429,CodersBrain,53020,Information Technology,201-500
+C430,Maruti Suzuki India Limited,666050,Automotive,"10,001+"
+C431,Dhingra Pharma,370,Electrical & Electronic Manufacturing,1-11
+C432,SKG EMPLOYMENT,229,Information Technology,1-11
+C433,CodersBrain,53020,Information Technology,201-500
+C434,Astral Pipes,39924,Construction,"1,001-5,000"
+C435,Astral Pipes,39924,Construction,"1,001-5,000"
+C436,AIS Technolabs Pvt Ltd,6598,Information Technology,51-200
+C437,Simform,39965,Information Technology,"501-1,000"
+C438,Finowings,1079,Financial Services,1-11
+C439,IntouchCX,117703,Outsourcing/Offshoring,"10,001+"
+C440,Wipro,6736861,Information Technology,"10,001+"
+C441,Infosys,6791902,Information Technology,"10,001+"
+C442,UltraTech Cement,591864,Building Materials,"10,001+"
+C443,GMR Group,207864,Construction,"5,001-10,000"
+C444,Aditya Birla Capital,59980,Financial Services,"10,001+"
+C445,Applycup Hiring Solutions,162,Staffing & Recruiting,51-200
+C446,Infosys BPM,866642,Information Technology,"10,001+"
+C447,Dev Technosys,8400,Information Technology,51-200
+C448,Dhingra Pharma,370,Electrical & Electronic Manufacturing,1-11
+C449,CEDCOSS Technologies Private Limited,20298,Computer Software,"1,001-5,000"
+C450,"Saaki, Argus and Averil Consulting",3436,Staffing & Recruiting,51-200
+C451,Paytm,1156798,Financial Services,"10,001+"
+C452,Axiom Technologies,15575,Information Technology,201-500
+C453,Pidilite Industries Limited,432038,Consumer Goods,"1,001-5,000"
+C454,Wipro,6736865,Information Technology,"10,001+"
+C455,Finanzi,27,Financial Services,2-10
+C456,Paytm,1156798,Financial Services,"10,001+"
+C457,Vibrantzz Management Services.,1280,Information Technology,1-11
+C458,HIRExpert,239,Human Resources,1-11
+C459,The Phoenix Mills Ltd.,24175,Real Estate,"501-1,000"
+C460,ACSASS IT|ITES,275,Information Technology,201-500
+C461,Infosys BPM,866643,Information Technology,"10,001+"
+C462,Ecom Express Limited,156545,Transportation/Trucking/Railroad,"10,001+"
+C463,upGrad,638615,E-learning,"10,001+"
+C464,Firstcry.com,36212,Electrical & Electronics Manufacturing,51-200
+C465,Seven Consultancy (HR Solution),45688,Human Resources,51-200
+C466,BookMyShow,88620,Entertainment,"1,001-5,000"
+C467,UPS,1654216,Transportation/Trucking/Railroad,"10,001+"
+C468,Flipkart,3233975,Computer Software,"10,001+"
+C469,Rajiv Gandhi Cancer Institute and Research Centre,14402,Hospital & Health Care,"1,001-5,000"
+C470,Kilpatrick,14726,Human Resources,51-200
+C471,FliQi,72,Education Management,1-11
+C472,Kaivanya Extrusion Technik,2405,Mechanical Or Industri,1-11
+C473,Tata Consultancy Services,12000430,Information Technology,"10,001+"
+C474,Tata Consultancy Services,12000432,Information Technology,"10,001+"
+C475,Airbnb,2290683,Computer Software,"5,001-10,000"
+C476,Matic Solutions,1724,Information Technology,1-11
+C477,Aviyana Ventures Pvt. Ltd.,1605,Human Resources,1-11
+C478,Livspace,306542,Computer Software,"1,001-5,000"
+C479,Egniol Services Private Limited,4538,Law Practice,201-500
+C480,Vistara - TATA SIA Airlines Ltd.,391932,Airlines/Aviation,"1,001-5,000"
+C481,Deutsche Bank,1855184,Financial Services,"10,001+"
+C482,Wipro,6736875,Information Technology,"10,001+"
+C483,DLF Limited,203143,Real Estate,"1,001-5,000"
+C484,Swiggy,1285578,Computer Software,"1,001-5,000"
+C485,Competitive Careers Pvt. Ltd.,2797,Education Management,201-500
+C486,Wipro,6736878,Information Technology,"10,001+"
+C487,SP Solution,456,Information Technology,1-11
+C488,Able Ventures,2070,Professional Training,1-11
+C489,Vistara - TATA SIA Airlines Ltd.,391933,Airlines/Aviation,"1,001-5,000"
+C490,Vimdhya Services,288,Human Resources,2-10
+C491,Airports Authority of India,58472,Airlines/Aviation,"10,001+"
+C492,Dhingra Pharma,370,Electrical & Electronics Manufacturing,1-11
+C493,GMR Group,207864,Construction,"5,001-10,000"
+C494,Spirale HR Solutions Pvt Ltd,1378,Human Resources,51-200
+C495,MS FINCAP PRIVATE LIMITED,10023,Financial Services,51-200
+C496,Boult Audio,20929,Consumer Electronics,51-200
+C497,Bedford County Airport,16,Aviation & Aerospace,2-10
+C498,HyreFox Consultants,13291,Human Resources,51-200
+C499,Vistara - TATA SIA Airlines Ltd.,391934,Airlines/Aviation,"1,001-5,000"
+C500,Red Group,11574,Real Estate,2-10
+C501,PwC India,1004300,Management Consulting,"5,001-10,000"
+C502,Swiggy,1285580,Computer Software,"1,001-5,000"
+C503,Vistara - TATA SIA Airlines Ltd.,391935,Airlines/Aviation,"1,001-5,000"
+C504,LEAD India,1235,Non-profit Organization Management,1-11
+C505,Hem Oil & Chemicals,14,Chemicals,1-11
+C506,ADITYA BIRLA MONEY LTD,3668,Financial Services,"501-1,000"
+C507,Ola,965397,Computer Software,"5,001-10,000"
+C508,Vistara - TATA SIA Airlines Ltd.,391936,Airlines/Aviation,"1,001-5,000"
+C509,Vistara - TATA SIA Airlines Ltd.,391936,Airlines/Aviation,"1,001-5,000"
+C510,CEDCOSS Technologies Private Limited,20298,Computer Software,"1,001-5,000"
+C511,American Express,1833540,Financial Services,"10,001+"
+C512,HCLTech,4552588,Information Technology,"10,001+"
+C513,American India Foundation,77429,Non-profit Organizatio,51-200
+C514,Haze-Busting Consultancy Services,1791,Consumer Services,1-11
+C515,_Royal_,4033,Farming,"5,001-10,000"
+C516,Aviyana Ventures Pvt. Ltd.,1605,Human Resources,1-11
+C517,RC Project Consultancy (RCPC),6628,Civil Engineering,1-11
+C518,Zivame,104949,Apparel & Fashion,"501-1,000"
+C519,SKG EMPLOYMENT,229,Information Technology,1-11
+C520,Red Group,11574,Real Estate,2-10
+C521,INDIAN SCHOOL OF BUSINESS MANAGEMENT AND ADMINISTRATION,15215,Education Management,"501-1,000"
+C522,Green Gold Animation Pvt Ltd,30208,Entertainment,"501-1,000"

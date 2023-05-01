@@ -1,0 +1,523 @@
+detailid,workplace,applicants,Employment Type,Level
+1,On-site,200,Full-time,Entry level
+2,On-site,41,Full-time,Entry level
+3,On-site,70,Full-time,Mid-Senior level
+4,On-site,8,Full-time,Mid-Senior level
+5,Hybrid,38,Full-time,Mid-Senior level
+6,On-site,200,Full-time,Mid-Senior level
+7,On-site,200,Full-time,Mid-Senior level
+8,On-site,5,Full-time,Entry level
+9,On-site,200,Full-time,Mid-Senior level
+10,On-site,74,Full-time,Associate
+11,On-site,33,Full-time,Mid-Senior level
+12,On-site,39,Full-time,
+13,Hybrid,200,Full-time,
+14,On-site,10,Full-time,Entry level
+15,On-site,114,Full-time,Associate
+16,On-site,76,Full-time,Director
+17,Hybrid,17,Full-time,Mid-Senior level
+18,On-site,200,Full-time,Mid-Senior level
+19,On-site,87,Full-time,Entry level
+20,On-site,2,Full-time,Entry level
+21,On-site,200,Full-time,Mid-Senior level
+22,On-site,200,Full-time,Entry level
+23,On-site,200,Full-time,Mid-Senior level
+24,On-site,22,Full-time,Associate
+25,On-site,200,Full-time,Entry level
+26,On-site,19,Full-time,Associate
+27,On-site,43,Full-time,Mid-Senior level
+28,On-site,49,Full-time,Mid-Senior level
+29,Hybrid,4,Full-time,Mid-Senior level
+30,Remote,200,Full-time,
+31,On-site,200,Contract,Executive
+32,On-site,16,Full-time,Entry level
+33,Hybrid,92,Full-time,
+34,On-site,9,Full-time,Mid-Senior level
+35,On-site,200,Full-time,Mid-Senior level
+36,On-site,12,Full-time,Entry level
+37,On-site,193,Full-time,Director
+38,Hybrid,200,Full-time,Entry level
+39,On-site,7,Full-time,Entry level
+40,Hybrid,48,Full-time,
+41,On-site,200,Full-time,Mid-Senior level
+42,Hybrid,200,Full-time,Mid-Senior level
+43,On-site,21,Full-time,Entry level
+44,On-site,200,Full-time,
+45,Hybrid,14,Full-time,
+46,On-site,32,Full-time,Executive
+47,On-site,8,Full-time,Mid-Senior level
+48,On-site,9,Full-time,Internship
+49,On-site,200,Full-time,Executive
+50,Hybrid,200,Full-time,Mid-Senior level
+51,On-site,200,Full-time,Mid-Senior level
+52,On-site,200,Full-time,Mid-Senior level
+53,On-site,200,Full-time,
+54,On-site,28,Full-time,
+55,On-site,23,Full-time,Entry level
+56,On-site,200,Full-time,
+57,Hybrid,3,Full-time,Associate
+58,On-site,200,Full-time,
+59,On-site,180,Full-time,
+60,On-site,200,Full-time,Mid-Senior level
+61,On-site,33,Full-time,
+62,Remote,200,Full-time,Entry level
+63,On-site,200,Full-time,Mid-Senior level
+64,On-site,,Full-time,Mid-Senior level
+65,On-site,,Full-time,
+66,On-site,,Full-time,Entry level
+67,Hybrid,,Full-time,Entry level
+68,On-site,,Full-time,Mid-Senior level
+69,On-site,,Full-time,Mid-Senior level
+70,On-site,,Full-time,Internship
+71,On-site,,Full-time,Mid-Senior level
+72,On-site,,Full-time,
+73,On-site,,Full-time,
+74,On-site,,Full-time,Entry level
+75,On-site,,Full-time,Mid-Senior level
+76,On-site,,Internshi,· Internship
+77,On-site,,Full-time,Executive
+78,On-site,,Full-time,Mid-Senior level
+79,On-site,,Full-time,Mid-Senior level
+80,On-site,,Full-time,Mid-Senior level
+81,On-site,,Full-time,Mid-Senior level
+82,On-site,,Full-time,Mid-Senior level
+83,On-site,,Full-time,Entry level
+84,On-site,,Full-time,Entry level
+85,On-site,,Full-time,Mid-Senior level
+86,On-site,,Full-time,Mid-Senior level
+87,On-site,,Full-time,Entry level
+88,On-site,,Full-time,Mid-Senior level
+89,On-site,,Full-time,Mid-Senior level
+90,On-site,,Contract,Entry level
+91,On-site,,Full-time,Entry level
+92,On-site,,Full-time,Director
+93,On-site,,Full-time,Entry level
+94,On-site,,Full-time,
+95,On-site,,Full-time,Mid-Senior level
+96,On-site,,Full-time,Mid-Senior level
+97,Hybrid,,Full-time,Entry level
+98,On-site,,Full-time,Mid-Senior level
+99,On-site,,Full-time,Entry level
+100,On-site,,Full-time,Mid-Senior level
+101,On-site,,Full-time,Entry level
+102,On-site,,Full-time,Entry level
+103,On-site,,Full-time,Executive
+104,On-site,,Full-time,Entry level
+105,On-site,,Full-time,Mid-Senior level
+106,On-site,,Full-time,Entry level
+107,On-site,,Full-time,Mid-Senior level
+108,On-site,,Full-time,Entry level
+109,On-site,,Full-time,Mid-Senior level
+110,Hybrid,,Internshi,
+111,On-site,,Full-time,Mid-Senior level
+112,On-site,,Full-time,Associate
+113,On-site,,Full-time,Mid-Senior level
+114,On-site,,Full-time,Mid-Senior level
+115,On-site,,Full-time,Associate
+116,On-site,,Full-time,Mid-Senior level
+117,On-site,,Full-time,Mid-Senior level
+118,On-site,,Full-time,
+119,On-site,,Full-time,Associate
+120,On-site,,Full-time,
+121,On-site,,Full-time,Entry level
+122,Hybrid,,Full-time,Mid-Senior level
+123,Hybrid,,Full-time,Mid-Senior level
+124,On-site,,Full-time,Entry level
+125,On-site,,Full-time,Mid-Senior level
+126,On-site,,Full-time,Executive
+127,On-site,,Full-time,Entry level
+128,On-site,,Full-time,Mid-Senior level
+129,Hybrid,,Full-time,Associate
+130,On-site,,Full-time,Mid-Senior level
+131,On-site,,Full-time,Entry level
+132,On-site,,Full-time,Entry level
+133,On-site,,Full-time,Entry level
+134,On-site,,Full-time,Entry level
+135,On-site,,Full-time,Mid-Senior level
+136,On-site,,Full-time,Entry level
+137,On-site,,Full-time,Mid-Senior level
+138,Hybrid,,Full-time,Entry level
+139,On-site,,Full-time,Entry level
+140,On-site,,Full-time,
+141,On-site,,Full-time,Mid-Senior level
+142,On-site,,Full-time,Entry level
+143,On-site,,Full-time,Entry level
+144,Hybrid,,Full-time,Mid-Senior level
+145,On-site,,Full-time,Entry level
+146,On-site,,Full-time,Entry level
+147,On-site,,Full-time,Entry level
+148,On-site,,Full-time,Entry level
+149,On-site,,Full-time,Entry level
+150,On-site,,Full-time,Entry level
+151,On-site,,Full-time,Mid-Senior level
+152,On-site,,Full-time,Entry level
+153,On-site,,Full-time,Entry level
+154,On-site,,Full-time,Entry level
+155,On-site,,Full-time,Entry level
+156,On-site,,Full-time,Associate
+157,On-site,,Full-time,Entry level
+158,On-site,,Full-time,Entry level
+159,On-site,,Full-time,Entry level
+160,On-site,,Full-time,Entry level
+161,On-site,,Full-time,Mid-Senior level
+162,On-site,,Full-time,Entry level
+163,On-site,,Full-time,Associate
+164,On-site,,Full-time,Associate
+165,On-site,,Full-time,Mid-Senior level
+166,On-site,,Full-time,Entry level
+167,On-site,,Full-time,Entry level
+168,Hybrid,,Full-time,Internship
+169,On-site,,Full-time,Mid-Senior level
+170,Hybrid,,Full-time,
+171,On-site,,Full-time,Mid-Senior level
+172,Remote,,Full-time,Entry level
+173,On-site,,Full-time,
+174,On-site,,Full-time,Mid-Senior level
+175,On-site,,Full-time,Mid-Senior level
+176,On-site,,Full-time,Associate
+177,On-site,,Full-time,
+178,On-site,,Full-time,Mid-Senior level
+179,Hybrid,,Full-time,Entry level
+180,On-site,,Full-time,Entry level
+181,On-site,,Full-time,Entry level
+182,On-site,,Full-time,Mid-Senior level
+183,On-site,,Full-time,Entry level
+184,On-site,,Full-time,
+185,On-site,,Full-time,Entry level
+186,On-site,,Full-time,Entry level
+187,On-site,,Full-time,Associate
+188,On-site,,Full-time,Executive
+189,On-site,,Full-time,Mid-Senior level
+190,On-site,,Full-time,Mid-Senior level
+191,On-site,,Full-time,Mid-Senior level
+192,On-site,,Full-time,Director
+193,On-site,,Full-time,Associate
+194,On-site,,Full-time,Entry level
+195,On-site,,Full-time,Internship
+196,On-site,,Full-time,Entry level
+197,On-site,,Full-time,Entry level
+198,On-site,,Full-time,Entry level
+199,On-site,,Full-time,Associate
+200,On-site,,Full-time,Entry level
+201,On-site,,Full-time,Entry level
+202,On-site,,Full-time,Entry level
+203,On-site,,Full-time,
+204,On-site,,"10,001+ e",oyees Â· Tobacco Manufacturing
+205,On-site,,Full-time,Mid-Senior level
+206,On-site,,Full-time,Mid-Senior level
+207,Hybrid,,Full-time,Associate
+208,Hybrid,,Full-time,
+209,On-site,,Full-time,Executive
+210,On-site,,Full-time,Entry level
+211,On-site,,Full-time,
+212,Remote,,Full-time,Mid-Senior level
+213,On-site,,Full-time,Entry level
+214,On-site,,Full-time,Mid-Senior level
+215,On-site,,Full-time,Entry level
+216,On-site,,Full-time,
+217,On-site,,Full-time,Entry level
+218,On-site,,Full-time,Entry level
+219,On-site,,Full-time,Entry level
+220,On-site,,Full-time,Associate
+221,On-site,,Full-time,Entry level
+222,On-site,,Full-time,Associate
+223,On-site,,Full-time,Associate
+224,On-site,,Full-time,Mid-Senior level
+225,On-site,,Full-time,
+226,On-site,,Full-time,Mid-Senior level
+227,On-site,,Full-time,
+228,On-site,,Full-time,Associate
+229,On-site,,Full-time,Mid-Senior level
+230,On-site,,Full-time,
+231,Remote,,Full-time,Entry level
+232,On-site,,Full-time,Executive
+233,On-site,,Full-time,Mid-Senior level
+234,Hybrid,,Full-time,Mid-Senior level
+235,Hybrid,,Full-time,
+236,On-site,,Full-time,Entry level
+237,On-site,,Full-time,
+238,On-site,,Full-time,Entry level
+239,On-site,,Full-time,Entry level
+240,On-site,,Full-time,Entry level
+241,Hybrid,,Full-time,Mid-Senior level
+242,Hybrid,,Full-time,Mid-Senior level
+243,On-site,,Full-time,Entry level
+244,On-site,,Full-time,Entry level
+245,Remote,,Part-time,Internship
+246,On-site,,Full-time,Executive
+247,Hybrid,,Full-time,Mid-Senior level
+248,On-site,,Full-time,Mid-Senior level
+249,On-site,,Full-time,Entry level
+250,On-site,,Full-time,Mid-Senior level
+251,On-site,,Full-time,Mid-Senior level
+252,On-site,,Full-time,Mid-Senior level
+253,Hybrid,,Full-time,Entry level
+254,On-site,,Full-time,Mid-Senior level
+255,On-site,,Contract,Entry level
+256,On-site,,Full-time,
+257,On-site,,Full-time,Entry level
+258,On-site,,Full-time,Entry level
+259,On-site,,Full-time,Entry level
+260,On-site,,Full-time,Entry level
+261,On-site,,Full-time,Entry level
+262,On-site,,Full-time,Entry level
+263,On-site,,Full-time,Entry level
+264,On-site,,Full-time,Mid-Senior level
+265,On-site,,Full-time,Mid-Senior level
+266,On-site,,Full-time,Entry level
+267,On-site,,Full-time,Entry level
+268,On-site,,Full-time,Entry level
+269,Hybrid,,Full-time,Mid-Senior level
+270,On-site,,Full-time,Entry level
+271,Hybrid,,Full-time,Mid-Senior level
+272,On-site,,Full-time,Mid-Senior level
+273,Hybrid,,Full-time,
+274,On-site,,Full-time,Mid-Senior level
+275,Hybrid,,Full-time,Internship
+276,On-site,,Full-time,Entry level
+277,On-site,,Full-time,Mid-Senior level
+278,On-site,,Full-time,Mid-Senior level
+279,On-site,,Full-time,
+280,On-site,,Full-time,Mid-Senior level
+281,On-site,,Full-time,Mid-Senior level
+282,On-site,,Full-time,Mid-Senior level
+283,On-site,,Full-time,Entry level
+284,Remote,,Full-time,Executive
+285,On-site,,Full-time,Associate
+286,On-site,,Full-time,Mid-Senior level
+287,On-site,,Full-time,Entry level
+288,On-site,,Full-time,
+289,Hybrid,,Full-time,Entry level
+290,Hybrid,,Full-time,Entry level
+291,On-site,,Full-time,Mid-Senior level
+292,On-site,,Full-time,Associate
+293,On-site,,Full-time,Mid-Senior level
+294,On-site,,Full-time,Entry level
+295,On-site,,Full-time,Executive
+296,On-site,,Full-time,Executive
+297,On-site,,Full-time,Entry level
+298,On-site,,Full-time,Internship
+299,On-site,,Full-time,Mid-Senior level
+300,On-site,,Full-time,Mid-Senior level
+301,Hybrid,,Full-time,Mid-Senior level
+302,On-site,,Contract,Associate
+303,On-site,,Full-time,Entry level
+304,On-site,,Full-time,Entry level
+305,On-site,,Full-time,
+306,On-site,,Full-time,Mid-Senior level
+307,On-site,,Full-time,
+308,On-site,,Full-time,Mid-Senior level
+309,On-site,,Full-time,
+310,On-site,,Full-time,Entry level
+311,On-site,,Full-time,Mid-Senior level
+312,On-site,,Full-time,Entry level
+313,On-site,,Full-time,Mid-Senior level
+314,Hybrid,,Full-time,Associate
+315,On-site,,Full-time,Associate
+316,On-site,,Full-time,Mid-Senior level
+317,On-site,,Full-time,Entry level
+318,On-site,,Full-time,Mid-Senior level
+319,On-site,,Full-time,Entry level
+320,On-site,,Full-time,Entry level
+321,On-site,,Full-time,Mid-Senior level
+322,On-site,,Full-time,Mid-Senior level
+323,On-site,,Full-time,Mid-Senior level
+324,Remote,,Full-time,Entry level
+325,On-site,,Full-time,Mid-Senior level
+326,On-site,,Full-time,Entry level
+327,On-site,,Full-time,Entry level
+328,On-site,,Full-time,
+329,On-site,,Full-time,Entry level
+330,On-site,,Full-time,Mid-Senior level
+331,On-site,,Full-time,Entry level
+332,On-site,,Full-time,Mid-Senior level
+333,On-site,,Full-time,Mid-Senior level
+334,On-site,,Full-time,Mid-Senior level
+335,Hybrid,,Full-time,
+336,On-site,,Full-time,Associate
+337,On-site,,Full-time,Mid-Senior level
+338,Hybrid,,Full-time,Director
+339,On-site,,Full-time,Entry level
+340,On-site,,Full-time,Entry level
+341,On-site,,Full-time,Mid-Senior level
+342,On-site,,Full-time,Director
+343,On-site,,Full-time,Entry level
+344,On-site,,Full-time,Mid-Senior level
+345,Hybrid,,Full-time,Mid-Senior level
+346,On-site,,Full-time,Entry level
+347,On-site,,Full-time,Mid-Senior level
+348,Hybrid,,Full-time,Entry level
+349,On-site,,Full-time,Entry level
+350,On-site,,Full-time,Director
+351,Hybrid,,Full-time,Mid-Senior level
+352,On-site,,Full-time,Mid-Senior level
+353,On-site,,Full-time,Entry level
+354,On-site,,Full-time,Entry level
+355,On-site,,Full-time,Director
+356,Hybrid,,Full-time,Mid-Senior level
+357,On-site,,Full-time,Mid-Senior level
+358,On-site,,Full-time,Mid-Senior level
+359,On-site,,Full-time,
+360,Hybrid,,Full-time,Mid-Senior level
+361,On-site,,Full-time,Associate
+362,On-site,,Full-time,Mid-Senior level
+363,On-site,,Full-time,Mid-Senior level
+364,On-site,,Full-time,Associate
+365,Hybrid,,Full-time,Entry level
+366,On-site,,Full-time,
+367,On-site,,Full-time,Mid-Senior level
+368,On-site,,Full-time,Entry level
+369,On-site,,Full-time,Entry level
+370,On-site,,Full-time,Associate
+371,On-site,,Part-time,
+372,On-site,,Full-time,Entry level
+373,On-site,,Full-time,Associate
+374,On-site,,Full-time,Mid-Senior level
+375,On-site,,Full-time,Entry level
+376,On-site,,Full-time,
+377,On-site,,Internshi,· Mid-Senior level
+378,On-site,,Full-time,
+379,On-site,,Full-time,Executive
+380,On-site,,Full-time,Associate
+381,On-site,,Full-time,Mid-Senior level
+382,On-site,,Full-time,Mid-Senior level
+383,On-site,,Full-time,Entry level
+384,Remote,,Full-time,Internship
+385,On-site,,Full-time,Mid-Senior level
+386,On-site,,Full-time,Executive
+387,Hybrid,,Full-time,Mid-Senior level
+388,On-site,,Full-time,Director
+389,On-site,,Full-time,Mid-Senior level
+390,On-site,,Full-time,Mid-Senior level
+391,On-site,,Full-time,Entry level
+392,On-site,,Full-time,Entry level
+393,On-site,,Full-time,Associate
+394,On-site,,Full-time,Mid-Senior level
+395,On-site,,Full-time,Entry level
+396,On-site,,Full-time,Mid-Senior level
+397,On-site,,Full-time,Entry level
+398,On-site,,Full-time,Mid-Senior level
+399,Hybrid,,Full-time,Associate
+400,Hybrid,,Full-time,Mid-Senior level
+401,Hybrid,,Full-time,Mid-Senior level
+402,On-site,,Full-time,Mid-Senior level
+403,On-site,,Full-time,Associate
+404,Hybrid,,Full-time,Mid-Senior level
+405,Hybrid,,Full-time,Mid-Senior level
+406,Hybrid,,Full-time,
+407,On-site,,Full-time,
+408,On-site,,Full-time,Mid-Senior level
+409,On-site,,Full-time,Mid-Senior level
+410,On-site,,Full-time,Mid-Senior level
+411,On-site,,Full-time,Mid-Senior level
+412,On-site,,Full-time,Entry level
+413,On-site,,Full-time,Entry level
+414,On-site,,Full-time,Associate
+415,On-site,,Full-time,Entry level
+416,On-site,,Full-time,Mid-Senior level
+417,On-site,,Full-time,Director
+418,On-site,,Full-time,Entry level
+419,On-site,,Full-time,Entry level
+420,Hybrid,,Full-time,Associate
+421,Hybrid,,Full-time,
+422,Hybrid,,Full-time,Mid-Senior level
+423,On-site,,Full-time,Entry level
+424,On-site,,Full-time,Entry level
+425,Hybrid,,Full-time,Entry level
+426,On-site,,Full-time,Mid-Senior level
+427,On-site,,Full-time,Mid-Senior level
+428,On-site,,Full-time,Mid-Senior level
+429,On-site,,Full-time,Entry level
+430,On-site,,Full-time,Entry level
+431,On-site,,Full-time,Entry level
+432,On-site,,Full-time,Executive
+433,On-site,,Full-time,Entry level
+434,On-site,,Full-time,Entry level
+435,On-site,,Full-time,Mid-Senior level
+436,On-site,,Full-time,Mid-Senior level
+437,On-site,,Full-time,Entry level
+438,On-site,,Full-time,
+439,On-site,,Full-time,
+440,On-site,,Full-time,
+441,Hybrid,,Full-time,Associate
+442,On-site,,Full-time,Entry level
+443,On-site,,Full-time,Mid-Senior level
+444,On-site,,Full-time,Mid-Senior level
+445,On-site,,Full-time,Entry level
+446,On-site,,Full-time,Mid-Senior level
+447,On-site,,Full-time,Associate
+448,On-site,,Full-time,Entry level
+449,On-site,,Full-time,Entry level
+450,Hybrid,,Full-time,Director
+451,Hybrid,,Full-time,
+452,On-site,,Full-time,Entry level
+453,On-site,,Full-time,Mid-Senior level
+454,On-site,,Full-time,
+455,Hybrid,,Internshi,
+456,Hybrid,,Full-time,
+457,On-site,,Full-time,Mid-Senior level
+458,On-site,,Full-time,Entry level
+459,On-site,,Full-time,Mid-Senior level
+460,On-site,,Full-time,Entry level
+461,On-site,,Full-time,Entry level
+462,On-site,,Full-time,Entry level
+463,On-site,,Full-time,Associate
+464,On-site,,Full-time,Mid-Senior level
+465,On-site,,Full-time,Entry level
+466,On-site,,Full-time,Mid-Senior level
+467,On-site,,Full-time,Mid-Senior level
+468,Hybrid,,Full-time,
+469,On-site,,Full-time,Mid-Senior level
+470,On-site,,Full-time,Director
+471,On-site,,Full-time,Mid-Senior level
+472,On-site,,Full-time,Entry level
+473,On-site,,Full-time,Mid-Senior level
+474,On-site,,Full-time,Associate
+475,Remote,,Full-time,Mid-Senior level
+476,On-site,,Full-time,Entry level
+477,On-site,,Full-time,Director
+478,On-site,,Full-time,Entry level
+479,Hybrid,,Full-time,Director
+480,On-site,,Full-time,Entry level
+481,On-site,,Full-time,Mid-Senior level
+482,On-site,,Full-time,
+483,On-site,,Full-time,Entry level
+484,On-site,,Full-time,Mid-Senior level
+485,On-site,,Full-time,Entry level
+486,On-site,,Full-time,
+487,On-site,,Part-time,Entry level
+488,Remote,,Full-time,Associate
+489,On-site,,Full-time,Entry level
+490,On-site,,Full-time,
+491,On-site,,Full-time,
+492,On-site,,Full-time,Entry level
+493,On-site,,Full-time,Entry level
+494,On-site,,Full-time,Entry level
+495,On-site,,Full-time,Mid-Senior level
+496,On-site,,Full-time,Internship
+497,On-site,,Full-time,
+498,On-site,,Full-time,Entry level
+499,On-site,,Full-time,Mid-Senior level
+500,On-site,,Full-time,Entry level
+501,On-site,,Full-time,Mid-Senior level
+502,On-site,,Full-time,Mid-Senior level
+503,On-site,,Full-time,Mid-Senior level
+504,On-site,,Full-time,Entry level
+505,On-site,,Full-time,Entry level
+506,On-site,,Temporary,Entry level
+507,On-site,,Full-time,Mid-Senior level
+508,On-site,,Full-time,Executive
+509,On-site,,Full-time,Executive
+510,On-site,,Full-time,Entry level
+511,On-site,,Full-time,Mid-Senior level
+512,On-site,,Full-time,Mid-Senior level
+513,On-site,,Full-time,Associate
+514,On-site,,Full-time,Entry level
+515,Remote,,Full-time,Entry level
+516,On-site,,Full-time,Entry level
+517,On-site,,Full-time,Mid-Senior level
+518,On-site,,Full-time,Mid-Senior level
+519,On-site,,Full-time,Executive
+520,On-site,,Full-time,Entry level
+521,On-site,,Full-time,Mid-Senior level
+522,On-site,,Full-time,Internship

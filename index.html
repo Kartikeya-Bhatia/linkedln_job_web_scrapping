@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<!-- // Browser tab title  -->
+    <title>Search Bar</title>
+
+<!-- //Page Styling  -->
+    <style>
+      * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        font-family: sans-serif;
+      }
+
+      .heading {
+        font-size: 40px;
+        background-color: #64027c;
+        font-weight: bold;
+        color: white;
+        padding: 1%;
+      }
+      .flex-center-between {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+      .second {
+        width: 38%;
+        margin-right: 5%;
+      }
+
+      .second > input {
+        padding: 8px;
+        border: none;
+        border-radius: 3px;
+        width: 70%;
+        outline: none;
+      }
+
+      .second > button {
+        font-weight: bold;
+        width: 25%;
+        padding: 8px;
+        background-color: #ffebb7;
+        border: none;
+        border-radius: 3px;
+        transition: 0.8s;
+      }
+
+      .second > button:hover {
+        background-color: #fbdb89;
+        scale: 1.1;
+        cursor: pointer;
+        box-shadow: 2px 2px 2px #f8f0dd;
+      }
+      .results_tag {
+        padding: 5px 2%;
+        font-weight: bold;
+        margin-top: 40px;
+      }
+      .results_tag button {
+        padding: 7px 10px;
+        border-radius: 5px;
+        border: none;
+        background-color: #64027c;
+        color: white;
+        font-weight: bold;
+        transition: 0.5s;
+      }
+
+      .outer_cart_div {
+        padding: 2%;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 20px;
+      }
+
+      .outer_cart_div > div {
+        padding: 8px;
+        border-radius: 3px;
+        box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em,
+          rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
+      }
+
+      .cart {
+        display: flex;
+      }
+
+      .cart > div:first-of-type {
+        width: 56%;
+      }
+      .cart > div:last-of-type {
+        width: 30%;
+      }
+
+      .cart p {
+        margin-top: 10px;
+        font-size: 1rem;
+      }
+
+      #Industry {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+
+      #viewBtn:hover {
+        scale: 1.1;
+        cursor: pointer;
+      }
+
+      @media only screen and (max-width: 600px) {
+        .heading {
+          flex-direction: column;
+        }
+
+        .second {
+          width: 80%;
+          margin-right: 0%;
+          padding-top: 10px;
+          padding-bottom: 10px;
+        }
+        .results_tag {
+          margin-top: 20px;
+          padding-bottom: 20px;
+        }
+
+        .outer_cart_div {
+          padding: 2%;
+          grid-template-columns: repeat(1, 1fr);
+        }
+
+        .cart > div:first-of-type {
+          width: 63%;
+        }
+        .cart > div:last-of-type {
+          width: 35%;
+        }
+      }
+
+
+    </style>
+
+  </head>
+
+<!-- // Page Content -->
+  <body>
+    <div class="outer_div">
+      <div class="heading flex-center-between">
+
+<!-- Heading -->
+        <div>Search Skills</div>
+
+<!--  Search Box and Button -->
+        <div class="second flex-center-between">
+          <input type="text" placeholder="Search Keyword" id="search_bar" />
+          <button id="btn">Search</button>
+        </div>
+      </div>
+
+<!-- Search Results Text -->
+      <div class="results_tag flex-center-between">
+        <p>Search Results :</p>
+        <span><button id="viewBtn">View All</button></span>
+      </div>
+
+<!-- Each Job Detail -->
+      <div class="outer_cart_div" id="test">
+        <div class="cart">
+          <div>
+            <p>Most common Experience Level :</p>
+            <p>Most common Industry :</p>
+            <p>Most common Company class :</p>
+            <p>Total Number of Jobs Available :</p>
+          </div>
+
+          <div>
+            <p><b id="level">Mid Senior Level</b></p>
+            <p><b id="Industry">Petroleum</b></p>
+            <p><b id="Class_number">Class 1</b></p>
+            <p><b id="total_job_count">0</b></p>
+          </div>
+        </div>
+      </div>
+
+
+    </div>
+  </body>
+</html>
+
+
+
+<!-- Code Logic -->
+<script>    
+  let SeachKeyword = "";
+
+  document.getElementById("btn").addEventListener("click", () => {
+    document.querySelector(".outer_cart_div").innerHTML = `
+        <div class="cart">
+
+<div>
+<p>Most common Experience Level : </p>
+<p>Most common Industry  : </p>
+<p>Most common Company class : </p>
+<p>Total Number of Jobs Available : </p>
+</div>
+
+
+
+<div>
+    <p><b id="level">Mid Senior Level</b></p>
+    <p><b id="Industry">Petroleum</b></p>
+    <p><b>Class 2</b></p>
+    <p><b id="total_job_count">0</b></p>
+</div>
+
+</div>
+        `;
+
+    SeachKeyword = document.getElementById("search_bar").value.toLowerCase();
+
+    if(SeachKeyword.length <= 0) {
+        alert("Please Enter Valid Keyword");
+        return;
+    }
+
+    getData();
+  });
+
+  let totalData = [];
+  let tempData = [];
+
+  function getData() {
+    fetch("./data.json")
+      .then((res) => res.json())
+      .then((data) => {
+        totalData = data;
+        check();
+      });
+  }
+
+  function check() {
+    let temp = totalData.filter((elem, idx) => {
+      return elem.skill_token.includes(`'${SeachKeyword}'`);
+    });
+
+    tempData = temp;
+
+    if (temp.length === 0) {
+      document.getElementById("level").innerText = "Not Found";
+      document.getElementById("total_job_count").innerText = 0;
+      document.getElementById("Industry").innerText = "Not Found";
+    } else {
+      document.getElementById("total_job_count").innerText = temp.length;
+      document.getElementById("level").innerText =
+        temp[0].Level.length == 0 ? "Not Found" : temp[0].Level;
+      document.getElementById("Industry").innerText = temp[0].Industry;
+      document.getElementById("Class_number").innerText = temp[0].class;
+    }
+  }
+
+  document.getElementById("viewBtn").addEventListener("click", () => {
+
+    if(document.getElementById("viewBtn").innerText == "Hide") {
+        document.querySelector(".outer_cart_div").innerHTML = `
+        <div class="cart">
+
+<div>
+<p>Most common Experience Level : </p>
+<p>Most common Industry  : </p>
+<p>Most common Company class : </p>
+<p>Total Number of Jobs Available : </p>
+</div>
+
+
+
+<div>
+    <p><b id="level">${tempData[0].Level.length == 0 ? "Not Found" : tempData[0].Level}</b></p>
+    <p><b id="Industry">${tempData[0].Industry}</b></p>
+    <p><b>${tempData[0].Level}</b></p>
+    <p><b id="total_job_count">${tempData.length}</b></p>
+</div>
+
+</div>
+        `;      
+
+        document.getElementById("viewBtn").innerText = "Show All";
+    } else {
+        getData();
+
+document.getElementById("viewBtn").innerText = "Loading...";
+
+setTimeout(() => {  
+
+    document.getElementById("viewBtn").innerText = "Hide";
+
+  if (SeachKeyword.length > 0) {
+    display(tempData);
+  }
+}, 1000);
+    }
+
+
+
+   
+  });
+
+  function display(totalData) {
+    document.querySelector(".outer_cart_div").innerHTML = null;
+
+    totalData.length > 0 &&
+      totalData.map((elem) => {
+        let div = document.createElement("div");
+        div.setAttribute("class", "cart");
+
+        div.innerHTML = `
+            <div>
+                <p>Most common Experience Level : </p>
+                <p>Most common Industry  : </p>
+                <p>Most common Company class : </p>
+                <p>Total Number of Jobs Available : </p>
+                </div>
+
+
+
+                <div>
+                    <p><b id="level">${
+                      elem.Level ? elem.Level : "Not Found"
+                    }</b></p>
+                    <p><b id="Industry">${elem.Industry}</b></p>
+                    <p><b>${elem.class ? elem.class :"Class 2" }</b></p>
+                    <p><b id="total_job_count">${totalData.length}</b></p>
+                </div>
+            `;
+
+        document.getElementById("test").appendChild(div);
+      });
+  }
+</script>
